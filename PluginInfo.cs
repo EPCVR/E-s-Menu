@@ -2,9 +2,9 @@
 {
     internal class PluginInfo
     {
-        public const string GUID = "org.EPCVRSVR.gorillatag.EPCVRandSmoothieVR";
-        public const string Name = "Elemental Client";
-        public const string Description = "Created by ElementalPCVR and SmoothieVR/SterlingKitty1";
-        public const string Version = "1.0.0";
+        public const string GUID = "org.EPCVR.gorillatag.EClient";
+        public const string Name = "E-Client";
+        public const string Description = "Mod menu for gtag";
+        public const string Version = "1TagGun";
     }
 }
